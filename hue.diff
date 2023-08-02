@@ -67,3 +67,4 @@ index 4a5833a2a9..ccdf5ce7e3 100644
 -PyYAML==5.4.1
 --r ${ROOT}/desktop/core/base_requirements.txt
 +PyYAML
+
